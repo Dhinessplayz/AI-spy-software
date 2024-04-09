@@ -5,4 +5,7 @@ This software is open-sourced. The software would be able to use Artificial inte
 Key - points
 1. Open-sourced
 2. For educational purposes only
-3. the main purpose of the software is the easy accesibilty of data gathered from spyware through AI to show how AI can be Tailored to do anything
+3. the main purpose of the software is the easy accesibilty of data gathered from spyware through AI to show how AI can be tailored to do anything
+4. The project will be a collaborative project, and changes may apply based on the suggestions made by you guys
+
+
