@@ -4,3 +4,4 @@ Below is a list of ideas for future implementation (Create a issue on this file 
 2. Make the AI run on a Raspberry PI with a small display connected to it so it can be carried anywhere and be handheld (Remove the requirement of a phone or a Laptop reducing the probability that someone else has access to the AI)
 3. Create a GUI for the AI for better user interaction
 4. Add other tailored spyware other than the keylogger (i.e Location grabber) to really push the limits and show how AI can be implemented for the wrong things
+5. Intergrate this with the JARVIS AI that I made (You can check my repos its called JARVIS AI made with python)
