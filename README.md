@@ -8,4 +8,4 @@ Key - points
 3. the main purpose of the software is the easy accesibilty of data gathered from spyware through AI to show how AI can be tailored to do anything
 4. The project will be a collaborative project, and changes may apply based on the suggestions made by you guys
 
-
+Check the progress file for updates 
