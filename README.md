@@ -9,3 +9,5 @@ Key - points
 4. The project will be a collaborative project, and changes may apply based on the suggestions made by you guys
 
 Progress can be tracked from the progress file!
+
+Quick Note > If you are tyring to test this software, you don't have to download the Progress folder and the .DS_Store file (unless you want to) <
