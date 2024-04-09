@@ -4,3 +4,5 @@ Updates >><<
 > I created a Progress folder for you guys to track the progress (Could have done it without a folder)
 > New plans for making the AI separate from the keylogger so the keylogger could be on a device and the AI can access data from the Keylogger but the AI is in a different device (Remote-access)
 > New folder called Ideas now has all the ideas for future implementation (Check it to see how you can contribute)
+> A small Update to the Ideas list
+>Change of names from Progress to updates
